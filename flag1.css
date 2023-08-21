@@ -1,0 +1,19 @@
+.first{
+    background-color: orange;
+    height: 200px;
+    width: 800px;
+}
+.second{
+    background-color: white;
+    height: 200px;
+    width: 800px;
+    background-image: url(Ashoka_Chakra.svg.png);
+    background-size: 200px 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.third{
+    background-color: green;
+    height: 200px;
+    width: 800px;
+}
